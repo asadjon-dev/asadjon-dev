@@ -19,6 +19,9 @@
 -  Become a better web developer
 -  Build cool projects
 
+### 🌟 Hobbies
+- anime
+- minecraft
 ### 📂 My Projects
 
 - 🌐 [My GitHub Repositories](https://github.com/asadjon-dev?tab=repositories)
