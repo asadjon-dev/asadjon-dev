@@ -1,10 +1,10 @@
 # Hey, I'm Asadbek 👋
 
 ### 💻 About Me
-- 🌱 Currently learning Web Development
-- 💡 Interested in IT, programming, and technology
-- 🎮 Minecraft enthusiast
-- 🚀 Always learning and building new things
+-  Currently learning Web Development
+-  Interested in IT, programming, and technology
+-  Minecraft enthusiast
+-  Always learning and building new things
 
 ### 🛠️ Technologies & Languages
 
@@ -13,11 +13,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🎯 Future Goals
-- ☕ Learn Java
-- 🐍 Learn Python
-- 🎮 Explore Minecraft modding
-- 🌐 Become a better web developer
-- 💻 Build cool projects
+-  Learn Java
+-  Learn Python
+-  Explore Minecraft modding
+-  Become a better web developer
+-  Build cool projects
 
 ### 📂 My Projects
 
